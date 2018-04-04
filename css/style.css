@@ -1,0 +1,18 @@
+#status{
+    margin-top: 10px;
+}
+.load{
+   display: block;
+    transform: translateX(50%);
+}
+.container.entry{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    -webkit-transition: width 2s; /* Safari */
+    transition: all 0.5s;
+}
+span:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: all 2s;
+    -webkit-transition: all 2s; /* Safari */
+}
